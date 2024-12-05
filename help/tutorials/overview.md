@@ -4,7 +4,7 @@ description: Raccolta di video e tutorial su Adobe Mix Modeler.
 doc-type: overview-page
 mini-toc-levels: 1
 exl-id: 451a1f0d-3116-4166-9bfe-6b1a295ebac8
-source-git-commit: 3c615f525f1d589af3220bdd8f2cd40894d8f829
+source-git-commit: cb11a8eb8640282e849f6a096ef6e24635c58ced
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 12%
@@ -36,24 +36,24 @@ L’Adobe Mix Modeler consente alle organizzazioni di misurare, ottimizzare e pi
     </a>
     <div>
       <a href="intro/use-cases.md">
-    <strong>Casi d’uso</strong>
+    <strong>Casi d'uso</strong>
     </a>
     </div>
     <p>
-    <em>Scopri i casi d’uso chiave dell’Adobe Mix Modeler</em>
+    <em>Scopri i casi d'uso chiave dell'Adobe Mix Modeler</em>
     <p>
   </td>
   <td>
-    <a href="intro/user-workflow.md">
-      <img alt="miniatura per l’esercitazione &quot;Flusso di lavoro utente&quot;" src="https://video.tv.adobe.com/v/3424854?format=jpeg" />
+    <a href="intro/demo.md">
+      <img alt="miniatura per l’esercitazione &quot;Demo end-to-end&quot;" src="https://video.tv.adobe.com/v/3440794?format=jpeg" />
     </a>
     <div>
-      <a href="intro/user-workflow.md">
-    <strong>Flusso di lavoro utente</strong>
+      <a href="intro/demo.md">
+    <strong>Demo end-to-end</strong>
     </a>
     </div>
     <p>
-    <em>Scopri il flusso di lavoro di base di Adobe Mix Modeler</em>
+    <em>Guarda una demo end-to-end di Adobe Mix Modeler</em>
     <p>
   </td>
   <td>
@@ -62,11 +62,11 @@ L’Adobe Mix Modeler consente alle organizzazioni di misurare, ottimizzare e pi
     </a>
     <div>
       <a href="intro/user-interface-tour.md">
-    <strong>Presentazione dell’interfaccia utente</strong>
+    <strong>Presentazione dell'interfaccia utente</strong>
     </a>
     </div>
     <p>
-    <em>Scopri i componenti chiave dell’interfaccia utente di Adobe Mix Modeler</em>
+    <em>Scopri i componenti chiave dell'interfaccia utente di Adobe Mix Modeler</em>
     <p>
   </td>
 </tr>
