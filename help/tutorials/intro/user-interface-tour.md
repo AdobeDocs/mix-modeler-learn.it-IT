@@ -17,6 +17,6 @@ ht-degree: 28%
 
 # Presentazione interfaccia utente
 
-Consulta le funzioni chiave di Mix Modeler nell’interfaccia utente. Per ulteriori informazioni, vedere la [guida Adobe Mix Modeler](https://experienceleague.adobe.com/en/docs/mix-modeler/using/get-started/workflow).
+Consulta le funzioni chiave di Mix Modeler nell’interfaccia utente. Per ulteriori informazioni, vedere la [guida Adobe Mix Modeler](https://experienceleague.adobe.com/it/docs/mix-modeler/using/get-started/workflow).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424851?learn=on&enablevpops)
