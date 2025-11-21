@@ -17,6 +17,6 @@ ht-degree: 23%
 
 # Flusso di lavoro utente
 
-Scopri il flusso di lavoro di Mix Modeler. Per ulteriori informazioni, consulta la documentazione del [flusso di lavoro Mix Modeler](https://experienceleague.adobe.com/it/docs/mix-modeler/using/get-started/workflow).
+Scopri il flusso di lavoro di Mix Modeler. Per ulteriori informazioni, consulta la documentazione del [flusso di lavoro Mix Modeler](https://experienceleague.adobe.com/en/docs/mix-modeler/using/get-started/workflow).
 
->[!VIDEO](https://video.tv.adobe.com/v/3440211?learn=on&enablevpops&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3424854?learn=on&enablevpops)
