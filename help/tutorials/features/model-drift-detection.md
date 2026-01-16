@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Rilevamento della deriva del modello
 
-Con la funzione di rilevamento della deriva del modello in Mix Modeler, la deriva dei modelli viene rilevata automaticamente e ti viene offerto di intervenire immediatamente o esplorare la deriva in modo più dettagliato. Per ulteriori informazioni, vedi [Deriva modello](https://experienceleague.adobe.com/en/docs/mix-modeler/using/models/insights#model-drift){target="_blank"} nella documentazione di Mix Modeler.
+Con la funzione di rilevamento della deriva del modello in Mix Modeler, la deriva dei modelli viene rilevata automaticamente e ti viene offerto di intervenire immediatamente o esplorare la deriva in modo più dettagliato. Per ulteriori informazioni, vedi [Deriva modello](https://experienceleague.adobe.com/it/docs/mix-modeler/using/models/insights#model-drift){target="_blank"} nella documentazione di Mix Modeler.
 
 >[!SLIDE](model-drift-detection)
