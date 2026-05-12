@@ -46,4 +46,4 @@ ht-degree: 37%
 
 Guarda una demo end-to-end di Adobe Mix Modeler. Per ulteriori informazioni, consulta la [documentazione di Mix Modeler](https://experienceleague.adobe.com/it/docs/mix-modeler/using/overview).
 
->[!VIDEO](https://video.tv.adobe.com/v/3440794/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3440802/?captions=ita&learn=on&enablevpops)
